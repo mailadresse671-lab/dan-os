@@ -1,0 +1,19 @@
+{
+  "id": "project-1770513854288",
+  "title": "TEST",
+  "bpm": 140,
+  "key": "C Major",
+  "status": "In Production",
+  "createdAt": 1770513854288,
+  "folders": [
+    "01_IDEE_UND_INSPIRATION",
+    "02_TEXTE_UND_LYRICS",
+    "03_BEATS_UND_PRODUCTION",
+    "04_VOCALS_UND_RECORDING",
+    "05_MIX_UND_PREVIEW",
+    "06_MASTERING_FINAL",
+    "07_COVER_ARTWORK",
+    "08_PROMO_UND_TIKTOK",
+    "09_VIDEO_UND_PROMO"
+  ]
+}
