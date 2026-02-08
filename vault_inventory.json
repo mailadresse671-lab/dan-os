@@ -1,0 +1,18 @@
+{
+    ".git": {
+        "LOSE_DATEIEN": 5,
+        "hooks": 14,
+        "info": 1,
+        "logs": 2,
+        "objects": 15,
+        "refs": 3
+    },
+    "01_STRATEGIE": {},
+    "02_KREATIV": {},
+    "03_PRODUKTION": {},
+    "04_FINALS": {},
+    "05_MARKETING": {},
+    "dan-os": {
+        ".git": 9
+    }
+}
