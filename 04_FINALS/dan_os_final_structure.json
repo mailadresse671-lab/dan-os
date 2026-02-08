@@ -1,0 +1,525 @@
+{
+    "status": "Systematisch Sortiert V21",
+    "timestamp": "2026-02-08 13:11",
+    "projekte": {
+        "00_BAUSTELLE_PROJEKT": {
+            "ALLGEMEIN": [
+                "baudoku.py",
+                "baudoku_pro.py",
+                "baustelle_manifest.json",
+                "setup_baudoku.py"
+            ],
+            "PLAENE": [],
+            "RECHNUNGEN": []
+        },
+        "01_DU_BIST_MEINE_PRINZESSIN": {
+            "01_KONZEPT_UND_TEXT": [],
+            "05_VISUALS": [],
+            "Alessia": []
+        },
+        "02_SCHERBENHAUFEN": {},
+        "03_Magnet": {},
+        "04_ES_KOMMT_WIE_ES_KOMMT": {
+            "01_KONZEPT_UND_TEXT": []
+        },
+        "05_BLAUGRUENES_MEER": {
+            "01_KONZEPT_UND_TEXT": [],
+            "02_INSTRUMENTAL": []
+        },
+        "20180518": {
+            "03_BILDER_UND_COVER": [
+                "20180518_095422.jpg",
+                "20180518_235945.jpg"
+            ]
+        },
+        "20190414": {
+            "03_BILDER_UND_COVER": [
+                "20190414_004249.jpg"
+            ]
+        },
+        "20190609": {
+            "03_BILDER_UND_COVER": [
+                "20190609_030535.jpg"
+            ]
+        },
+        "20190629": {
+            "03_BILDER_UND_COVER": [
+                "20190629_084900.jpg",
+                "20190629_100326.jpg",
+                "20190629_104652.jpg",
+                "20190629_115026.jpg",
+                "20190629_124833.jpg"
+            ]
+        },
+        "20200216": {
+            "03_BILDER_UND_COVER": [
+                "20200216_003440.jpg",
+                "20200216_003440_1.jpg"
+            ]
+        },
+        "20210724": {
+            "03_BILDER_UND_COVER": [
+                "20210724_010444.jpg",
+                "20210724_010531.jpg"
+            ]
+        },
+        "20231028": {
+            "03_BILDER_UND_COVER": [
+                "20231028_222057.jpg"
+            ]
+        },
+        "20231029": {
+            "03_BILDER_UND_COVER": [
+                "20231029_000559.jpg",
+                "20231029_000612.jpg",
+                "20231029_011940_01.jpg",
+                "20231029_011940_01_1.jpg",
+                "20231029_014628.jpg",
+                "20231029_014631.jpg"
+            ]
+        },
+        "ABRECHNUNG": {
+            "01_TEXTE_UND_IDEEN": [
+                "ABRECHNUNG_09104_202510A.pdf"
+            ]
+        },
+        "ALEVERSE": {
+            "06_SONSTIGES": [
+                "ALEVERSE_PROJEKTPLAN.gsheet"
+            ]
+        },
+        "BAUAKTE": {
+            "01_TEXTE_UND_IDEEN": [
+                "BAUAKTE_A4_STABLE_V131.pdf",
+                "BAUAKTE_DRUCKVERSION.pdf",
+                "BAUAKTE_FINAL_BOTTOM_OVERVIEW.pdf",
+                "BAUAKTE_FINAL_DOKU.pdf",
+                "BAUAKTE_FINAL_DOKU_1.pdf",
+                "BAUAKTE_FINAL_DOKU_DAN.pdf",
+                "BAUAKTE_FINAL_DOKU_OVERVIEW.pdf",
+                "BAUAKTE_FINAL_DOKU_V133.pdf",
+                "BAUAKTE_FINAL_LAYOUT.pdf",
+                "BAUAKTE_FINAL_LAYOUT_V131.pdf",
+                "BAUAKTE_FINAL_MASTER.pdf",
+                "BAUAKTE_FINAL_WITH_PLAN.pdf",
+                "BAUAKTE_FIXED_RATIO_V13.pdf",
+                "BAUAKTE_INTEGRIERT_V129.pdf",
+                "BAUAKTE_KNICK_STATION.pdf",
+                "BAUAKTE_LARGE_PLAN_V132.pdf",
+                "BAUAKTE_MASTER_V129.pdf",
+                "BAUAKTE_PERIMETERSCHUTZ_LOS2.pdf",
+                "BAUAKTE_PERIMETERSCHUTZ_LOS2_1.pdf",
+                "BAUAKTE_PERIMETERSCHUTZ_LOS2_2.pdf",
+                "BAUAKTE_STATION_SECTION.pdf",
+                "BAUAKTE_STATION_SECTION_STAMPED.pdf",
+                "BAUAKTE_V134_MASTER_FINAL.pdf",
+                "BAUAKTE_V135_MASTER_FINAL.pdf",
+                "BAUAKTE_V138_FINAL_MASTER.pdf"
+            ]
+        },
+        "BAUANWEISUNG": {
+            "01_TEXTE_UND_IDEEN": [
+                "BAUANWEISUNG_KNICK_10.pdf",
+                "BAUANWEISUNG_KNICK_10_1.pdf",
+                "BAUANWEISUNG_KNICK_12.pdf",
+                "BAUANWEISUNG_KNICK_13.pdf",
+                "BAUANWEISUNG_KNICK_14.pdf"
+            ]
+        },
+        "BAUDOKU": {
+            "05_PROJEKT_DATEIEN": [
+                "BAUDOKU_ULTIMATE_TOOLPY.zip",
+                "BAUDOKU_ULTIMATE_TOOL_1PY.zip"
+            ],
+            "06_SONSTIGES": [
+                "BAUDOKU_ULTIMATE_TOOLPY.gdoc"
+            ]
+        },
+        "BAUSTELLEN": {
+            "06_SONSTIGES": []
+        },
+        "BAUSTELLENTAGESBERICHT.GSHEET": {
+            "06_SONSTIGES": [
+                "BAUSTELLENTAGESBERICHT.gsheet"
+            ]
+        },
+        "BAUTAGEBUCH": {
+            "06_SONSTIGES": [
+                "BAUTAGEBUCH_AUTOMATIK.gsheet"
+            ]
+        },
+        "BAUTAGESBERICHT": {
+            "06_SONSTIGES": [
+                "BAUTAGESBERICHT_1407190725.xlsx",
+                "BAUTAGESBERICHT_VORLAGE.xlsx"
+            ]
+        },
+        "CLIPPED": {
+            "03_BILDER_UND_COVER": [
+                "CLIPPED_IMAGE_20230427_194825.png"
+            ]
+        },
+        "DESKTOP.INI": {
+            "06_SONSTIGES": [
+                "DESKTOP.ini"
+            ]
+        },
+        "DIVERSE_RESTE": {
+            "01_TEXTE_UND_IDEEN": [
+                "00_TRK_00_SONSTIGES_BAUAKTE_V138.pdf",
+                "00_TRK_00_SONSTIGES_MEINS_CHRISTIAN.pdf"
+            ],
+            "04_VIDEOS_UND_CLIPS": [
+                "00_TRK_00_SONSTIGES_PAPA_IST_IMMER_FR_DICH_DA__PAPATOCHTER_DAN_SHORTS.mp4"
+            ],
+            "06_SONSTIGES": [
+                "KI_BERGABE_PROTOKOLL_BAUDOKU_PRO.gdoc"
+            ]
+        },
+        "ERSTELLEROBLOXWOCHENPLAN.GSCRIPT": {
+            "06_SONSTIGES": [
+                "ERSTELLEROBLOXWOCHENPLAN.gscript"
+            ]
+        },
+        "ES_KOMMT": {
+            "01_TEXTE_UND_IDEEN": [
+                "03_03_ES_KOMMT_WIE_ES_KOMMEN_MUSS.txt",
+                "03_03_TRK_03_ES_KOMMT_WIE_ES_KOMMT_LYRICS_ES_KOMMT_WIE_ES_KOMMT.docx"
+            ]
+        },
+        "IMG": {
+            "03_BILDER_UND_COVER": []
+        },
+        "IMG20180518WA0004.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180518WA0004.jpg"
+            ]
+        },
+        "IMG20180518WA0031.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180518WA0031.jpg"
+            ]
+        },
+        "IMG20180518WA0033.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180518WA0033.jpg"
+            ]
+        },
+        "IMG20180518WA0036.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180518WA0036.jpg"
+            ]
+        },
+        "IMG20180518WA0040.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180518WA0040.jpg"
+            ]
+        },
+        "IMG20180519WA0006.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180519WA0006.jpg"
+            ]
+        },
+        "IMG20180519WA0022.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20180519WA0022.jpg"
+            ]
+        },
+        "IMG20181013WA0001.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20181013WA0001.jpg"
+            ]
+        },
+        "IMG20181013WA0002.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20181013WA0002.jpg"
+            ]
+        },
+        "IMG20190918WA0004.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20190918WA0004.jpg"
+            ]
+        },
+        "IMG20191225WA0027.JPEG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20191225WA0027.jpeg"
+            ]
+        },
+        "IMG20200602WA0001.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20200602WA0001.jpg"
+            ]
+        },
+        "IMG20210912WA0009.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20210912WA0009.jpg"
+            ]
+        },
+        "IMG20220814WA0098.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20220814WA0098.jpg"
+            ]
+        },
+        "IMG20230304WA0011.JPEG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20230304WA0011.jpeg"
+            ]
+        },
+        "IMG20230520WA0002.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20230520WA0002.jpg"
+            ]
+        },
+        "IMG20230713WA0013.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20230713WA0013.jpg"
+            ]
+        },
+        "IMG20231003WA0003.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20231003WA0003.jpg"
+            ]
+        },
+        "IMG20231014WA0010.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20231014WA0010.jpg"
+            ]
+        },
+        "IMG20231124WA0014.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20231124WA0014.jpg"
+            ]
+        },
+        "IMG20231126WA0014.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20231126WA0014.jpg"
+            ]
+        },
+        "IMG20240329WA0005.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240329WA0005.jpg"
+            ]
+        },
+        "IMG20240418WA0008.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240418WA0008.jpg"
+            ]
+        },
+        "IMG20240418WA0009.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240418WA0009.jpg"
+            ]
+        },
+        "IMG20240418WA0017.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240418WA0017.jpg"
+            ]
+        },
+        "IMG20240428WA0000.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240428WA0000.jpg"
+            ]
+        },
+        "IMG20240524WA0007.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240524WA0007.jpg"
+            ]
+        },
+        "IMG20240718WA0019.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240718WA0019.jpg"
+            ]
+        },
+        "IMG20240810WA0007.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240810WA0007.jpg"
+            ]
+        },
+        "IMG20240908WA0049.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240908WA0049.jpg"
+            ]
+        },
+        "IMG20240908WA0071.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20240908WA0071.jpg"
+            ]
+        },
+        "IMG20241003WA0003.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20241003WA0003.jpg"
+            ]
+        },
+        "IMG20250307WA0041.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20250307WA0041.jpg"
+            ]
+        },
+        "IMG20250816WA0056.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20250816WA0056.jpg"
+            ]
+        },
+        "IMG20250906WA0045.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20250906WA0045.jpg"
+            ]
+        },
+        "IMG20251011WA0000.JPG": {
+            "03_BILDER_UND_COVER": [
+                "IMG20251011WA0000.jpg"
+            ]
+        },
+        "INSTRUMENTAL": {
+            "06_SONSTIGES": [
+                "INSTRUMENTAL"
+            ]
+        },
+        "LIEBEVOLLER": {
+            "06_SONSTIGES": [
+                "LIEBEVOLLER_RAP_BER_EINE_TOCHTER"
+            ]
+        },
+        "MAGNET": {
+            "06_SONSTIGES": [
+                "MAGNET",
+                "MAGNET_1",
+                "MAGNET_2",
+                "MAGNET_3"
+            ]
+        },
+        "MANU": {
+            "06_SONSTIGES": [
+                "MANU_RENE.bmp"
+            ]
+        },
+        "MARIO,": {
+            "06_SONSTIGES": [
+                "MARIO_MANUEL_UND_ICH"
+            ]
+        },
+        "MEER": {
+            "01_TEXTE_UND_IDEEN": [
+                "05_05_TRK_05_BLAUGRUENES_MEER_BLAUGRNES_MEER.pdf",
+                "05_05_TRK_05_BLAUGRUENES_MEER_BLAUGRNES_MEER_16_WINTER.docx",
+                "05_05_TRK_05_BLAUGRUENES_MEER_TITEL_BLAUGRNES_MEER_16_WINTER.docx",
+                "05_05_TRK_05_BLAUGRUENES_MEER_ZUSAMMENFASSUNG__BLAUGRNES_MEER_16_WINTER.docx"
+            ],
+            "02_AUDIO_UND_BEATS": [
+                "05_05_TRK_05_BLAUGRUENES_MEER_BLAUGRNES_MEER_16_WINTER.mp3",
+                "05_05_TRK_05_BLAUGRUENES_MEER_BLAUGRNES_MEER_BLAUGRNES_MEER_16_WINTER.mp3",
+                "05_05_TRK_05_BLAUGRUENES_MEER_BLAUGRNES_MEER_INSTRUMENTAL.mp3",
+                "05_05_TRK_05_BLAUGRUENES_MEER_BLAUGRUENES_MEER_BEAT.mp3"
+            ]
+        },
+        "MEINS": {
+            "01_TEXTE_UND_IDEEN": [
+                "MEINS_CHRISTIAN.pdf"
+            ]
+        },
+        "OHNE": {
+            "06_SONSTIGES": [
+                "OHNE_TITEL",
+                "OHNE_TITEL_1",
+                "OHNE_TITEL_2",
+                "OHNE_TITEL_3",
+                "OHNE_TITEL_4",
+                "OHNE_TITEL_5"
+            ]
+        },
+        "PRINZESSIN": {
+            "01_TEXTE_UND_IDEEN": [
+                "01_01_REPORT_DU_BIST_MEINE_PRINZESSIN.txt",
+                "01_01_TRK_01_DU_BIST_MEINE_PRINZESSIN_DU_BIST_MEINE_PRINZESSIN.docx"
+            ],
+            "02_AUDIO_UND_BEATS": [
+                "01_01_TRK_01_DU_BIST_MEINE_PRINZESSIN_DAN__DU_BIST_MEINE_PRINZESSIN_OFFICIAL_AUDIO.mp3"
+            ],
+            "04_VIDEOS_UND_CLIPS": [
+                "01_01_TRK_01_DU_BIST_MEINE_PRINZESSIN_DAN__DU_BIST_MEINE_PRINZESSIN_OFFICIAL_AUDIO.mp4"
+            ],
+            "06_SONSTIGES": [
+                "DU_BIST_MEINE_PRINZESSIN_REMASTERED",
+                "DU_BIST_MEINE_PRINZESSIN__REMASTERED",
+                "DU_BIST_MEINE_PRINZESSIN__REMASTERED_1"
+            ]
+        },
+        "QUIZ1.JPG": {
+            "03_BILDER_UND_COVER": [
+                "QUIZ1.jpg"
+            ]
+        },
+        "REN": {
+            "02_AUDIO_UND_BEATS": [
+                "REN_DER_CODE.mp3"
+            ],
+            "03_BILDER_UND_COVER": [
+                "REN_MANU.jpg"
+            ],
+            "06_SONSTIGES": [
+                "REN_DER_CODE"
+            ]
+        },
+        "Rene": {},
+        "RENÉ": {
+            "02_AUDIO_UND_BEATS": [],
+            "03_BILDER_UND_COVER": [],
+            "06_SONSTIGES": [
+                "REN_DER_CODE",
+                "REN____CODE_RED.exe",
+                "REN____CODE_RED_1.exe",
+                "REN____HYPE_SYSTEM",
+                "REN____HYPE_SYSTEM_1"
+            ]
+        },
+        "René_Party_Final": {
+            "01. index.html": [],
+            "02. bilder": [
+                "Crew",
+                "Familie",
+                "Party"
+            ],
+            "03. song.mp3": [],
+            "04. Dokumentation": [],
+            "Alt": []
+        },
+        "RICHTIG": {
+            "06_SONSTIGES": [
+                "RICHTIG_STEIL",
+                "RICHTIG_STEIL_1"
+            ]
+        },
+        "SCHERBENHAUFEN": {
+            "04_VIDEOS_UND_CLIPS": [
+                "SCHERBENHAUFEN_11.mp4",
+                "SCHERBENHAUFEN_SHORT_2TAGE_VOR_RELEASE.mp4"
+            ],
+            "06_SONSTIGES": [
+                "SCHERBENHAUFEN",
+                "SCHERBENHAUFEN_ORIGINAL"
+            ]
+        },
+        "SCHROTTHNDLER": {
+            "06_SONSTIGES": [
+                "SCHROTTHNDLER_ICHENHAUSEN.vcf"
+            ]
+        },
+        "SCHROTTHÄNDLER": {
+            "06_SONSTIGES": []
+        },
+        "Suno": {
+            "Alessia": [],
+            "Rene": []
+        },
+        "TEIL": {
+            "01_TEXTE_UND_IDEEN": [
+                "TEIL_1_BERSICHTSLAGEPLAN_NEU.pdf"
+            ]
+        },
+        "WERKSTATT": {
+            "06_SONSTIGES": [
+                "WERKSTATT_JACKPOT"
+            ]
+        }
+    }
+}

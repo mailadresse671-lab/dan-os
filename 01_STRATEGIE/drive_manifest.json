@@ -1,0 +1,63 @@
+{
+    "label": "DaN_MUSIC_PRODUCTION",
+    "sync": "2026-02-08 13:01",
+    "folders": {
+        "00_BAUSTELLE_PROJEKT": [
+            "ALLGEMEIN",
+            "PLAENE",
+            "RECHNUNGEN"
+        ],
+        "01_DU_BIST_MEINE_PRINZESSIN": [
+            "01_KONZEPT_UND_TEXT",
+            "05_VISUALS",
+            "Alessia"
+        ],
+        "02_SCHERBENHAUFEN": [
+            "Scherbenhaufen",
+            "Scherbenhaufen (Original)",
+            "Scherbenhaufen_1.1.mp4",
+            "Scherbenhaufen_short_2Tage_vor_release.mp4"
+        ],
+        "03_Magnet": [
+            "Magnet",
+            "Magnet (1)",
+            "Magnet (2)",
+            "Magnet (3)"
+        ],
+        "04_ES_KOMMT_WIE_ES_KOMMT": [
+            "01_KONZEPT_UND_TEXT"
+        ],
+        "05_BLAUGRUENES_MEER": [
+            "01_KONZEPT_UND_TEXT",
+            "02_INSTRUMENTAL"
+        ],
+        "Rene": [
+            "Ohne Titel",
+            "Ohne Titel (1)",
+            "Ohne Titel (2)",
+            "Ohne Titel (3)",
+            "Ren\u00e9- Der Code"
+        ],
+        "Ren\u00e9_Party_Final": [
+            "01. index.html",
+            "02. bilder",
+            "03. song.mp3",
+            "04. Dokumentation",
+            "Alt",
+            "desktop.ini",
+            "quiz1.jpg"
+        ],
+        "Suno": [
+            "Alessia",
+            "Mario, Manuel und Ich",
+            "Rene",
+            "REN\u00c9    CODE_RED (1).exe",
+            "REN\u00c9    CODE_RED.exe",
+            "REN\u00c9    HYPE_SYSTEM",
+            "REN\u00c9    HYPE_SYSTEM (1)",
+            "Richtig Steil",
+            "Richtig Steil (1)",
+            "Werkstatt Jackpot"
+        ]
+    }
+}
