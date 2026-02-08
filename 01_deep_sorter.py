@@ -1,12 +1,14 @@
-# 2026-02-08_Empire_Enforcer_v6_DIAGNOSE
+# 2026-02-08_Empire_Enforcer_v7_AUTOSAVE
 import os
 import shutil
+import subprocess
+from datetime import datetime
 
+# --- PFADE ---
 SOURCE = r"C:\Users\Danny\Desktop\DESKTOP_INBOX\GOOGLE_DRIVE_MASTER"
 VAULT = r"C:\Users\Danny\Desktop\00_DaN_EMPIRE_VAULT_2026"
 PRIVATE_OUTSIDE = r"C:\Users\Danny\Desktop\00_PRIVAT_QUARANTÄNE_BAU"
 
-# Erweitere diese Liste, falls Songs anders geschrieben werden!
 PROJECTS = ["PRINZESSIN", "SCHERBENHAUFEN", "ES_KOMMT", "MAGNET", "MEER", "RENE", "DAN"]
 
 def get_target_pillar(filename):
@@ -17,12 +19,24 @@ def get_target_pillar(filename):
     if "MASTER" in fn or "FINAL" in fn: return "04_FINALS"
     return "01_STRATEGIE"
 
+def run_git_save():
+    """Automatisiert den GitHub Upload."""
+    print("\n📤 Starte Auto-Save zu GitHub...")
+    try:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", f"Auto-Save: {timestamp} (Sorter Run)"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("✅ Backup erfolgreich erstellt!")
+    except Exception as e:
+        print(f"⚠️ Git-Save fehlgeschlagen: {e}")
+
 def start_sorting():
-    print(f"🔍 DIAGNOSE: Scanne {SOURCE}...")
+    print(f"🔍 Scan läuft in: {SOURCE}")
     count = 0
     
     if not os.path.exists(SOURCE):
-        print("❌ PFAD NICHT GEFUNDEN!")
+        print(f"❌ PFAD NICHT GEFUNDEN: {SOURCE}")
         return
 
     for root, dirs, files in os.walk(SOURCE):
@@ -31,28 +45,25 @@ def start_sorting():
             old_path = os.path.join(root, file)
             fn_upper = file.upper()
             
-            # BAU-CHECK
+            # 1. BAU-CHECK
             if any(x in (fn_upper + root.upper()) for x in ["BAU", "RECHNUNG", "HAUS"]):
                 dest = PRIVATE_OUTSIDE
             else:
-                # PROJEKT-SUCHE
+                # 2. PROJEKT-SUCHE
                 target_project = next((p for p in PROJECTS if p in (fn_upper + root.upper())), None)
                 pillar = get_target_pillar(file)
-                
-                if target_project:
-                    dest = os.path.join(VAULT, target_project, pillar)
-                else:
-                    dest = os.path.join(VAULT, pillar)
+                dest = os.path.join(VAULT, target_project, pillar) if target_project else os.path.join(VAULT, pillar)
 
             os.makedirs(dest, exist_ok=True)
             try:
                 shutil.move(old_path, os.path.join(dest, file))
-                print(f"Moved: {file} -> {dest}")
+                print(f"✅ Verschoben: {file}")
                 count += 1
             except Exception as e:
-                print(f"Skipped: {file} (Error: {e})")
+                print(f"❌ Fehler bei {file}: {e}")
     
-    print(f"--- SCAN FERTIG. {count} Dateien verarbeitet. ---")
+    print(f"\n--- FERTIG: {count} Dateien verarbeitet. ---")
+    run_git_save()
 
 if __name__ == "__main__":
     start_sorting()
