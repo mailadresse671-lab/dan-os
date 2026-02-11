@@ -1,1 +1,19 @@
-echo "secrets.toml" > .gitignore
+# Barcode: 2026-02-11_Empire_Vault_Ignore_v1
+
+# Sensible Daten (NIEMALS HOCHLADEN)
+secrets.toml
+.env
+*.log
+
+# Python Cache & Müll
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+.termux/
+
+# Export-Ordner (Sollen lokal auf dem Tablet bleiben)
+KI_BAUSTELLE_SYNC/

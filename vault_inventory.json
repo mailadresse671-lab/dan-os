@@ -4,7 +4,7 @@
         "hooks": 14,
         "info": 1,
         "logs": 2,
-        "objects": 38,
+        "objects": 230,
         "refs": 3
     },
     "01_STRATEGIE": {
@@ -16,7 +16,55 @@
         "LOSE_DATEIEN": 1
     },
     "05_MARKETING": {},
+    "97_SYSTEM_ARCHIV": {
+        "LOSE_DATEIEN": 42
+    },
+    "DAN": {
+        "01_STRATEGIE": 107,
+        "02_KREATIV": 17,
+        "03_PRODUKTION": 3,
+        "04_FINALS": 1,
+        "05_MARKETING": 310
+    },
     "dan-os": {
         ".git": 9
-    }
+    },
+    "ES_KOMMT": {
+        "02_KREATIV": 2
+    },
+    "MAGNET": {
+        "01_STRATEGIE": 5
+    },
+    "MEER": {
+        "01_STRATEGIE": 1,
+        "02_KREATIV": 3,
+        "03_PRODUKTION": 4
+    },
+    "PRINZESSIN": {
+        "02_KREATIV": 2,
+        "03_PRODUKTION": 1,
+        "04_FINALS": 3,
+        "05_MARKETING": 1
+    },
+    "RENE": {
+        "01_STRATEGIE": 10
+    },
+    "SCHERBENHAUFEN": {
+        "01_STRATEGIE": 2,
+        "05_MARKETING": 2
+    },
+    "secrets": {}
 }
+
+
+
+
+
+
+
+
+
+
+ct all
+
+mailadresse671-lab/DaN_Empire_OS 
